@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Carnotaurus",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/b/b9/Jurassic_world_carnotaurus_updated_by_sonichedgehog2-dc377dl.png/revision/latest?cb=20180427200251",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Tyrannosaurus",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/f/f8/T-Rex.png/revision/latest/scale-to-width-down/310?cb=20141128030334",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Stegosaurus",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/e/ef/Jurassic_world_indominus_rex_v2_by_sonichedgehog2-d9j1f9q.png/revision/latest/scale-to-width-down/310?cb=20160229002819",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Ankylosaurus",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/c/cd/Anklyosaurus_header_copia.png/revision/latest?cb=20180421015542",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Pteranodon",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/1/1a/Terry.png/revision/latest/scale-to-width-down/310?cb=20150227003720",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Triceratops",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/a/ab/Triceratops_Jurassic_World.png/revision/latest/scale-to-width-down/310?cb=20180427210959",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Velociraptor",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/b/b8/Velociraptor-info-graphic.png/revision/latest/scale-to-width-down/310?cb=20150420212958",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Gallimimus",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/8/87/Gallimimus-detail-header.png/revision/latest/scale-to-width-down/310?cb=20141230042426",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Sinoceratops",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/a/ad/Jurassic_world_sinoceratops_by_sonichedgehog2-dc9dg8x.png/revision/latest/scale-to-width-down/310?cb=20180427200509",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Indoraptor",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/e/eb/Jurassic_world_fallen_kingdom_indoraptor_3.0_by_sonichedgehog2-dcc96yw.png/revision/latest/scale-to-width-down/310?cb=20180619014937",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Baryonyx",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/0/04/Jurassic_world_fallen_kingdom_baryonyx_by_sonichedgehog2-dc9dfqf.png/revision/latest/scale-to-width-down/310?cb=20180427200439",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Mosasaurus",
+    "image": "https://vignette.wikia.nocookie.net/jurassicpark/images/7/72/Mosasaurus-detail-header.png/revision/latest/scale-to-width-down/310?cb=20141230042852",
+    "count": 0
+  }
+]

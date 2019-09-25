@@ -1,0 +1,10 @@
+.header {
+  background-color: burlywood;
+  width: 100%;
+  font-size: 2rem;
+  color: red;
+  text-shadow: 2px 2px 4px yellow;
+  margin-bottom: 10px;
+  line-height: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
